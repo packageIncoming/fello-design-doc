@@ -1,3 +1,4 @@
+<img width="7680" height="4320" alt="Fello.sh cover" src="https://github.com/packageIncoming/fello-design-doc/blob/main/cover.png" />
 
 # Fello.sh: The Internship Roommate Finder
 ### Designed by Mert Isik
